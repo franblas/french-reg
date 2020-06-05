@@ -15,3 +15,11 @@ There is already a db on the repo for convenience but, if you want to start from
 ```
 python3 db_create.py
 ```
+
+## Run the server locally
+```
+python3 server.py
+```
+The API can be fetched here -> http://localhost:5000/api/regions/
+The limit is 10 regions per response, you can get more result with the pagination
+->  http://localhost:5000/api/regions/?page=1
