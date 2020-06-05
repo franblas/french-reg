@@ -1,6 +1,9 @@
 # French regions
 Simple API to get infos on french regions
 
+Live API here -> https://french-reg.herokuapp.com/api/regions/
+With pagination: https://french-reg.herokuapp.com/api/regions/?page=1
+
 ## Requirements
 - Python 3.7.5 or higher
 ```bash

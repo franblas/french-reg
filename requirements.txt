@@ -1,3 +1,4 @@
 requests==2.20.1
 Flask==1.1.0
 tqdm==4.43.0
+uWSGI==2.0.18
